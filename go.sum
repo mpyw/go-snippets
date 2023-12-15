@@ -1,0 +1,10 @@
+github.com/ianlopshire/go-fixedwidth v0.9.5 h1:Anvi4j9mjFX0NIMKZxcKUCwqJM+XgBQgD2t1pUoPeEk=
+github.com/ianlopshire/go-fixedwidth v0.9.5/go.mod h1:afx8WSTDv8aKRvT9jbePgZp0T5J3jr5s2ihlMAzoXXw=
+github.com/jszwec/csvutil v1.9.0 h1:iTmq9G1P0e+AUq/MkFg6tetJ+1BH3fOX8Xi0RAcwiGc=
+github.com/jszwec/csvutil v1.9.0/go.mod h1:/E4ONrmGkwmWsk9ae9jpXnv9QT8pLHEPcCirMFhxG9I=
+go.uber.org/mock v0.3.0 h1:3mUxI1No2/60yUYax92Pt8eNOEecx2D3lcXZh2NEZJo=
+go.uber.org/mock v0.3.0/go.mod h1:a6FSlNadKUHUa9IP5Vyt1zh4fC7uAwxMutEAscFbkZc=
+golang.org/x/exp v0.0.0-20231214170342-aacd6d4b4611 h1:qCEDpW1G+vcj3Y7Fy52pEM1AWm3abj8WimGYejI3SC4=
+golang.org/x/exp v0.0.0-20231214170342-aacd6d4b4611/go.mod h1:iRJReGqOEeBhDZGkGbynYwcHlctCvnjTYIamk7uXpHI=
+golang.org/x/text v0.14.0 h1:ScX5w1eTa3QqT8oi6+ziP7dTV1S2+ALU0bI+0zXKWiQ=
+golang.org/x/text v0.14.0/go.mod h1:18ZOQIKpY8NJVqYksKHtTdi31H5itFRjB5/qKTNYzSU=
